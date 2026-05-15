@@ -1,5 +1,5 @@
 
-credencial fihuggycvoy a impglementar una btase de datossqhlserver a javagk
+credencial fihuggycvoy a impglementar una btase de datosbsqhlserver a javagk
 
 user
 password 
