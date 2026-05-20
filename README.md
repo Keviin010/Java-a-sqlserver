@@ -1,5 +1,5 @@
 g
-credencial fihuggydcvo4y a impglementarb una btase de datohsbsdqhlserver ac jvavagk
+credencial fihuggydcvo4y a impglementarnb una btase de datohsbsdqhlserver ac jvavagk
 
 userr
 password 
